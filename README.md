@@ -1,5 +1,5 @@
 # NxOp-Bio
-"👋 Welcome to my GitHub world! 🌐 
+👋 Welcome to my GitHub world! 🌐 
 
 🔐 As an 18-year-old aspiring Certified Ethical Hacker (CEH), I'm on an exciting journey to explore the realm of cybersecurity and ethical hacking. With a passion for technology and a dedication to digital safety, I'm here to learn, collaborate, and contribute.
 
